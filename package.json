@@ -1,0 +1,28 @@
+{
+  "name": "testgeoapi",
+  "version": "1.0.0",
+  "description": "testGeoAPI",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack-dev-server --watch",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarKust71/testGeoAPI.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MarKust71/testGeoAPI/issues"
+  },
+  "homepage": "https://github.com/MarKust71/testGeoAPI#readme",
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-loader": "^7.1.5",
+    "babel-preset-env": "^1.7.0",
+    "webpack": "^4.39.2",
+    "webpack-cli": "^3.3.7",
+    "webpack-dev-server": "^3.8.0"
+  }
+}
