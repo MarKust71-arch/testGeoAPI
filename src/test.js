@@ -1,4 +1,4 @@
 // TEST.JS dla prób na GitHubie
-const function foo() {
+function foo() {
     alert('działa');
 }
