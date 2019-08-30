@@ -79,3 +79,7 @@ api.findAdminDivisionsUsingGET(opts).then( function(data) {
 // .catch(err => {
 //   console.log(err);
 // });
+
+function foo1() {
+  alert('foo1 działa');
+}
